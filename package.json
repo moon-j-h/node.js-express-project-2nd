@@ -1,0 +1,24 @@
+{
+  "name": "vos-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^7.1.9",
+    "jsonwebtoken-refresh": "^5.7.0",
+    "mysql": "^2.11.1",
+    "nodemailer": "^2.5.0",
+    "nodemailer-smtp-transport": "^2.6.0",
+    "randomstring": "^1.1.5",
+    "scmp": "^1.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "script" : "app.js",
+    "error_file" : "error_logs.log",
+    "out_file" : "out_logs.log",
+    "log_date_format" : "YYYY-MM-DD HH:mm Z",
+    "env" : {
+        "TZ" : "Asia/Seoul"
+    }
+}
